@@ -1,0 +1,9 @@
+ Volume in drive E is E
+ Volume Serial Number is E60A-0E2B
+
+ Directory of E:\py_dev
+
+04/01/2022  12:07 AM    <DIR>          .
+04/01/2022  12:07 AM                 0 test.txt
+               1 File(s)              0 bytes
+               1 Dir(s)  996,129,558,528 bytes free
